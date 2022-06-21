@@ -210,7 +210,7 @@ Incarnate Word,http://a.espncdn.com/i/teamlogos/ncaa/500/2916.png,FCS,#000000,#0
 Indiana (PA),http://a.espncdn.com/i/teamlogos/ncaa/500/2291.png,Other,#000000,#ffffff,NA
 Indiana State,http://a.espncdn.com/i/teamlogos/ncaa/500/282.png,FCS,#00669a,#f0f0f0,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/1082_indiana_state_sycamores-wordmark-1991.png
 Jackson State,http://a.espncdn.com/i/teamlogos/ncaa/500/2296.png,FCS,#123297,#b5b7ba,NA
-Jacksonville,http://a.espncdn.com/i/teamlogos/ncaa/500/294.png,Other,#00523e,#ffffff,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/jacksonville-wordmark.png
+Jacksonville,http://a.espncdn.com/i/teamlogos/ncaa/500/294.png,hoopR,#00523e,#ffffff,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/jacksonville-wordmark.png
 Jacksonville State,http://a.espncdn.com/i/teamlogos/ncaa/500/55.png,FCS,#b50500,#b5b7ba,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/jacksonville_state_gamecocks_logo_wordmark_20028913.png
 James Madison,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png,FCS,#450084,#cbb778,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/3393_james_madison_dukes-wordmark-2017.png
 Kennesaw State,http://a.espncdn.com/i/teamlogos/ncaa/500/338.png,FCS,#000000,#fdbb30,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/kennesaw_state_owls_logo_wordmark_20128370.png
@@ -313,7 +313,7 @@ Trinity (IL),http://a.espncdn.com/i/teamlogos/ncaa/500/2652.png,Other,#000000,#f
 Tuskegee,http://a.espncdn.com/i/teamlogos/ncaa/500/2657.png,Other,#000000,#ffffff,NA
 UC Davis,http://a.espncdn.com/i/teamlogos/ncaa/500/302.png,FCS,#183563,#bc9305,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/california_davis_aggies_logo_primary_2019_sportslogosnet-1204.png
 UMass Dartmouth,http://a.espncdn.com/i/teamlogos/ncaa/500/379.png,Other,#000000,#ffffff,NA
-UMass Lowell,http://a.espncdn.com/i/teamlogos/ncaa/500/2349.png,Other,#000000,#cf1f2f,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/umass_lowell_river_hawks_logo_wordmark_2016_sportslogosnet-8837.png
+UMass Lowell,http://a.espncdn.com/i/teamlogos/ncaa/500/2349.png,hoopR,#000000,#cf1f2f,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/umass_lowell_river_hawks_logo_wordmark_2016_sportslogosnet-8837.png
 UT Martin,http://a.espncdn.com/i/teamlogos/ncaa/500/2630.png,FCS,#FF6700,#102a5c,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/tennessee-martin_skyhawks_logo_wordmark_2007_sportslogosnet-6564.png
 Valdosta State,http://a.espncdn.com/i/teamlogos/ncaa/500/2673.png,Other,#000000,#ffffff,NA
 Valparaiso,http://a.espncdn.com/i/teamlogos/ncaa/500/2674.png,FCS,#794500,#ffffff,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/valparaiso_beacons_logo_secondary_2021_sportslogosnet-5978.png
@@ -340,8 +340,8 @@ Wright State University,http://a.espncdn.com/i/teamlogos/ncaa/500/2750.png,Other
 Yale,http://a.espncdn.com/i/teamlogos/ncaa/500/43.png,FCS,#004a81,#286dc0,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/yale_bulldogs_logo_wordmark_19951266.png
 Youngstown State,http://a.espncdn.com/i/teamlogos/ncaa/500/2754.png,FCS,#E51936,#690717,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/7360_youngstown_state_penguins-wordmark-1993.png
 Dixie State,http://a.espncdn.com/i/teamlogos/ncaa/500/3101.png,FCS,#000000,#ffffff,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/dixie_state_trailblazers_logo_wordmark_2016_sportslogosnet-4022.png
-Hofstra,http://a.espncdn.com/i/teamlogos/ncaa/500/2275.png,Other,#27297c,#f6c934,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/6030_hofstra_pride-alternate-2005.png
-Northeastern,http://a.espncdn.com/i/teamlogos/ncaa/500/111.png,Other,#cc0001,#c2c3c0,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/northeastern-wordmark.png
+Hofstra,http://a.espncdn.com/i/teamlogos/ncaa/500/2275.png,hoopR,#27297c,#f6c934,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/6030_hofstra_pride-alternate-2005.png
+Northeastern,http://a.espncdn.com/i/teamlogos/ncaa/500/111.png,hoopR,#cc0001,#c2c3c0,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/wordmarks/northeastern-wordmark.png
 Shorter,http://a.espncdn.com/i/teamlogos/ncaa/500/2560.png,Other,#000000,#ffffff,NA
 University of Mary,http://a.espncdn.com/i/teamlogos/ncaa/500/559.png,Other,#000000,#ffffff,NA
 Adams St.,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/adams-st.svg,DII,NA,NA,NA
@@ -630,6 +630,7 @@ Minnesota-Morris,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main
 Misericordia,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Misericordia.jpg,DIII,#000000,#ffffff,NA
 MIT,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/MIT.jpg,DIII,#000000,#ffffff,NA
 Monmouth,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Monmouth.jpg,DIII,#051844,#ffffff,NA
+Monmouth,http://a.espncdn.com/i/teamlogos/ncaa/500/2405.png,hoopR,#051844,#ffffff,NA
 Montclair State,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Montclair%20State.jpg,DIII,#000000,#ffffff,NA
 Moravian,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Moravian.jpg,DIII,#000000,#ffffff,NA
 Morrisville State,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Morrisville%20State.jpg,DIII,#000000,#ffffff,NA
@@ -650,6 +651,7 @@ Southwestern,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/dat
 Springfield,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/Springfield.jpg,DIII,#000000,#ffffff,NA
 St. John Fisher,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/St.%20John%20Fisher.jpg,DIII,#000000,#ffffff,NA
 St. John's,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/St.%20John's.jpg,DIII,NA,NA,NA
+St. John's,http://a.espncdn.com/i/teamlogos/ncaa/500/2599.png,hoopR,#BA0C2F,#041C2C,NA
 St. Lawrence,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/St.%20Lawrence.jpg,DIII,#ffffff,#ffffff,NA
 St. Norbert,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/St.%20Norbert.jpg,DIII,#000000,#ffffff,NA
 St. Olaf,https://raw.githubusercontent.com/sportsdataverse/cfbplotR/main/data-raw/dIII/St.%20Olaf.jpg,DIII,#ffffff,#ffffff,NA
